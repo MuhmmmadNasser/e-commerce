@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D94C0F4E-5EBA-4549-8DDA-0242CF97080E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87903D09-DFF8-4AD5-BF8E-5E106FAAA5C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "didTappedListButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "138527E3-BCC8-4A5C-A655-FA0968E6EAF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "didTappedListButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D0298A1-91E1-4E1F-94C6-925F4441DFB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "SortByViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6D0298A1-91E1-4E1F-94C6-925F4441DFB9 - 26970d2d30769f5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.delegate.getter : Swift.Optional&lt;e_commerce.SortDelegate&gt;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "135">
+               </Location>
+               <Location
+                  uuid = "6D0298A1-91E1-4E1F-94C6-925F4441DFB9 - 7afc32e55728ab4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.delegate.setter : Swift.Optional&lt;e_commerce.SortDelegate&gt;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "6D0298A1-91E1-4E1F-94C6-925F4441DFB9 - b28b6e132b861f71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.delegate.modify : Swift.Optional&lt;e_commerce.SortDelegate&gt;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "6D0298A1-91E1-4E1F-94C6-925F4441DFB9 - dd98be34b7c20411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.delegate.modify : Swift.Optional&lt;e_commerce.SortDelegate&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "6D0298A1-91E1-4E1F-94C6-925F4441DFB9 - f40f97d91fbacbe1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; e_commerce.SortByViewController"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "249">
+               </Location>
+               <Location
+                  uuid = "6D0298A1-91E1-4E1F-94C6-925F4441DFB9 - a53b25a4c6609fee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;e_commerce.SortByViewController&gt;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "205">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E86F5DC2-C82C-4BEA-8816-EF7D942E5739"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "SortByViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E86F5DC2-C82C-4BEA-8816-EF7D942E5739 - 8f4f7039360e9cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.sortArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "E86F5DC2-C82C-4BEA-8816-EF7D942E5739 - 84933b57acfd5db1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.sortArray.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "E86F5DC2-C82C-4BEA-8816-EF7D942E5739 - eb913e565025680b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.sortArray.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "E86F5DC2-C82C-4BEA-8816-EF7D942E5739 - 72781a791e915427"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.sortArray.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "E86F5DC2-C82C-4BEA-8816-EF7D942E5739 - f40f97d91fbaca00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; e_commerce.SortByViewController"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "293">
+               </Location>
+               <Location
+                  uuid = "E86F5DC2-C82C-4BEA-8816-EF7D942E5739 - a53b25a4c6609e0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "e_commerce.SortByViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;e_commerce.SortByViewController&gt;"
+                  moduleName = "e-commerce"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohamed/Desktop/projects/e-commerce/e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "249">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBF17FDC-EB90-4618-B47A-DBC029AFFC9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SortDelegate"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45B3CF86-0842-4B99-ACAB-4EB04DF2D9BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/SortBy/SortByViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SortDelegate"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAA834C3-B8D5-4B31-BC23-562A3728C296"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/Cell/ProductListCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "didTappedFavoriteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF2438A0-C43F-411F-818A-3299FA147394"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/Cell/ProductListCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "didTappedFavoriteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6942994-153D-45ED-A98F-47C2E21B5D64"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/NewCollectionVC+CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "NewCollectionViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0152E61-E31E-4FDB-9EB1-937FBFCDC30D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/NewCollectionVC+CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "didTappedFavoriteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEBC0936-7F23-4D18-8D91-AD08D4B5FE50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/NewCollectionVC+CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "didTappedFavoriteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EDDD3CB-7489-4C26-8EF7-BC593E84806A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/NewCollectionVC+CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "didTappedFavoriteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B62B7591-6D08-4099-B0BF-5181B76F8E2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/NewCollectionVC+CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "didTappedFavoriteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66B79057-1BA9-4641-ABC5-F49F853E8FA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/NewCollectionVC+CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "didTappedFavoriteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40920A0D-0F76-4F96-BFEC-3EF5208A3C09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/NewCollectionVC+CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "NewCollectionViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3457888A-EA08-41EF-8A1E-511D18FF8ADE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/NewCollectionVC+CollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "NewCollectionViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C0972AE-EF37-4B39-842D-ED3CD9A5DA6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/Cell/ProductListCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "didTappedFavoriteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2C0FF14-3CD3-467F-9D28-77E34BB5984C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/Cell/ProductListCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "didTappedFavoriteButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F31C6E6-BDD4-4E44-8EEF-9ED9474F3D6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/Cell/ProductListCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "ProductListCollectionViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48DA352C-9B13-4B66-8EDE-9A96A87F3704"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "e-commerce/Scenes/Main/New Collection/Cell/ProductListCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  e-commerce
+
+  Created by Mohamed on 24/09/2022.
+  
+*/
+"SOCIALMEDIA" = "او تسجيل دخول عبر وسائل التواصل";
+"EMAIL" = "البريد الاكترونى";
+"PASSWORD" = "كلمة السر";
