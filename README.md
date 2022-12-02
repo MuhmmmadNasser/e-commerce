@@ -1,4 +1,4 @@
-# Fashion E-commerce App
+# Fashion App
 View a set of new collection such as (T-shirts _ Sheeveless _ Blouses)
 
 # Usage
