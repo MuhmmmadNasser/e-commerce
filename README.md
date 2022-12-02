@@ -1,8 +1,10 @@
 # Fashion E-commerce App
-View a group of electronic devices such as (Cameras, Gps)
+View a set of new collection such as (T-shirts _ Sheeveless _ Blouses)
 
 # Usage
-ALamofire, Singleton, UserDefaults, XIB, Change language
+Pods(ALamofire,Kingfisher, MOLH, NVActivityIndicatorView),
+XIB,localizable
+
 
 # Video Review
 https://drive.google.com/file/d/1FpRd8cfNnV8_dIsQXHl4OmTzcom2rY4T/view?usp=share_link
