@@ -2,7 +2,7 @@
 View a set of new collection such as (T-shirts _ Sheeveless _ Blouses)
 
 # Usage
-Pods(ALamofire,Kingfisher, MOLH, NVActivityIndicatorView),
+MVC, Pods(ALamofire, Kingfisher, MOLH, NVActivityIndicatorView),
 XIB,localizable
 
 
