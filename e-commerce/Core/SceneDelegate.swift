@@ -49,12 +49,32 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate, MOLHResetable {
         
     }
     func rootViewCotroller() {
-        let storyboard = UIStoryboard(name: "Main", bundle: nil)
-        let loginViewControler = storyboard.instantiateViewController(withIdentifier: "LoginViewController")
-        let navigationController = UINavigationController(rootViewController: loginViewControler)
-        navigationController.navigationBar.prefersLargeTitles = true
-        window?.rootViewController = navigationController
-        window?.makeKeyAndVisible()
+        
+        let userDefaults = UserDefaults.standard.string(forKey: "LoginToken")
+        
+//        let storyboard = UIStoryboard(name: "Main", bundle: nil)
+//        let loginViewControler = storyboard.instantiateViewController(withIdentifier: "LoginViewController")
+//        let navigationController = UINavigationController(rootViewController: loginViewControler)
+//        navigationController.navigationBar.prefersLargeTitles = true
+//        window?.rootViewController = navigationController
+//        window?.makeKeyAndVisible()
+        if userDefaults != nil {
+            let storyboard = UIStoryboard(name: "Main", bundle: nil)
+            let loginViewControler = storyboard.instantiateViewController(withIdentifier: "TabBarController")
+            let navigationController = UINavigationController(rootViewController: loginViewControler)
+            navigationController.navigationBar.prefersLargeTitles = true
+            window?.rootViewController = navigationController
+            window?.makeKeyAndVisible()
+        } else {
+            let storyboard = UIStoryboard(name: "Main", bundle: nil)
+            let loginViewControler = storyboard.instantiateViewController(withIdentifier: "LoginViewController")
+            let navigationController = UINavigationController(rootViewController: loginViewControler)
+            navigationController.navigationBar.prefersLargeTitles = true
+            window?.rootViewController = navigationController
+            window?.makeKeyAndVisible()
+        }
+        
+        
     }
     
     func sceneDidDisconnect(_ scene: UIScene) {

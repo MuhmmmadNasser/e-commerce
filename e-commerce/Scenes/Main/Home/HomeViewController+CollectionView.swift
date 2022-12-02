@@ -14,18 +14,19 @@ extension HomeViewController: CollectionView_Delegate_DataSource_FlowLayout {
         collectionView.register(UINib(nibName: "CategoriesCollectionViewCell", bundle: nil), forCellWithReuseIdentifier: "CategoriesCollectionViewCell")
         collectionView.delegate = self
         collectionView.dataSource = self
-        
         collectionView.reloadData()
     }
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return 3
+        print(categoryArray?.count)
+        return categoryArray?.count ?? 0
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "CategoriesCollectionViewCell", for: indexPath) as! CategoriesCollectionViewCell
-        cell.categiryImageView.image = image[indexPath.row]
-        cell.categoryNameLbl.text = names[indexPath.row]
+        let category = categoryArray?[indexPath.row]
+        cell.categiryImageView.loadImage(urlString: category?.image ?? "")
+        cell.categoryNameLbl.text = category?.name
         
         return cell
         
@@ -35,6 +36,7 @@ extension HomeViewController: CollectionView_Delegate_DataSource_FlowLayout {
         if indexPath.row == 0 {
             let storyboard = UIStoryboard(name: "Main", bundle: nil)
             let viewController = storyboard.instantiateViewController(identifier: "NewCollectionViewController") as! NewCollectionViewController
+            //viewController.categoryName = categoryArray?[indexPath.row].id
             navigationController?.pushViewController(viewController, animated: true)
         }
     }
@@ -47,12 +49,13 @@ extension HomeViewController {
         let width = collectionView.frame.width
         let height = (collectionView.frame.height / 2) - 24
         
-        switch indexPath.row {
-        case 0:
+        //after 3 index make cellSize = width
+        if indexPath.row.isMultiple(of: 3) {
             return CGSize(width: width, height: height)
-        default:
+        } else {
             return CGSize(width: width/2, height: height)
         }
+        
         
     }
     

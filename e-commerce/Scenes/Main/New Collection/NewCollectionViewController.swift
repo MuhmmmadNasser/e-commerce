@@ -21,6 +21,7 @@ class NewCollectionViewController: UIViewController {
     
     
     //MARK: - Variables
+    var categoryId: Int?
     var categoryName = ["T-shirts", "Crop Tops", "Sleeveless", "Blouses"]
     var image: [UIImage] = [UIImage(named: "lunchScreen")!, UIImage(named: "category2")!, UIImage(named: "category1")!, UIImage(named: "category2")!]
     

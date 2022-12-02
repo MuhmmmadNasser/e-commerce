@@ -7,5 +7,7 @@ target 'e-commerce' do
 
   # Pods for e-commerce
 pod 'MOLH'
-
+pod 'Kingfisher'
+pod 'Alamofire'
+pod 'NVActivityIndicatorView', '4.8.0'
 end
